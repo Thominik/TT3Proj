@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "ShortName": "DHL - pobranie",
+    "Description": "DHL przewodzi bardzo szybko",
+    "DeliveryTime": "1-2 dni",
+    "Price": 10
+  },
+  {
+    "Id": 2,
+    "ShortName": "FedEx - pobranie",
+    "Description": "Dłuższa dostawa z ubezpieczeniem",
+    "DeliveryTime": "2-3 dni",
+    "Price": 5
+  },
+  {
+    "Id": 3,
+    "ShortName": "UPS - pobranie",
+    "Description": "Dłuższa dosatawa z gwarancją zwrotu pieniędzy",
+    "DeliveryTime": "2-3 dni",
+    "Price": 2
+  },
+  {
+    "Id": 4,
+    "ShortName": "Odbiór osobosty",
+    "Description": "Zapraszamy do naszego salonu przy ulicy Iwonickiej 12",
+    "DeliveryTime": "natychmiast",
+    "Price": 0
+  }
+]

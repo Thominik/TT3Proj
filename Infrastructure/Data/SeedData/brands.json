@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Milwaukee"
+  },
+  {
+    "Id": 2,
+    "Name": "Makita"
+  },
+  {
+    "Id": 3,
+    "Name": "DeWalt"
+  },
+  {
+    "Id": 4,
+    "Name": "Stanley"
+  }
+]
